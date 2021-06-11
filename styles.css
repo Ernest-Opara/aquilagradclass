@@ -1,0 +1,153 @@
+body {
+    background-color: white;
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+.btn {
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Georgia;
+    color: #ffffff;
+    font-size: 20px;
+    background: #2c39b9;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    margin-left: 15px;
+    margin-top: 20px;
+}
+
+.btn:hover {
+    background: #000000;
+    text-decoration: none;
+    color: white;
+}
+
+.container {
+    margin-top: 150px;
+    margin-right: 0;
+    margin-left: 250px;
+    margin-bottom: 10%;
+}
+
+h1 {
+    font-family: 'Montserrat-Light', sans-serif;
+    font-size: 100px;
+    color: #2c39b9;
+    padding-left: 20px;
+}
+
+.gclass {
+    font-family: 'Ubuntu', sans-serif;
+    color: #2c39b9;
+    margin-left: 150px;
+    line-height: 1px;
+}
+
+.hero-img {
+    float: right;
+    width: 14%;
+    margin-right: 15%;
+    margin-left: -25%;
+}
+
+.hero-img2 {
+    width: 42%;
+    float: right;
+    margin-right: -80px;
+    margin-top: -200px;
+}
+
+.text2 {
+    color: #403d46;
+    text-align: left;
+    padding-top: 30px;
+}
+
+#executives {
+    background-color: #d9dad9;
+    margin-bottom: 2%;
+    padding: 60px 80px 80px 80px;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.exco {
+    margin: 0 auto;
+    font-family: 'Ubuntu', sans-serif;
+    color: #2c39b9;
+    text-align: center;
+    padding: 2%;
+}
+
+.card {
+    background-color: white;
+    margin: 20px;
+    width: 30%;
+    float: left;
+}
+
+.fas-left {
+    float: left;
+}
+
+.fas-right {
+    float: right;
+}
+
+.carousel-indicators {
+    top: 110%;
+}
+
+#projects {
+    position: relative;
+}
+
+.feature-title {
+    font-size: 1.5rem;
+}
+
+.feature-box {
+    padding: 4.5%;
+}
+
+.icon {
+    color: #2c39b9;
+    margin-bottom: 1rem;
+}
+
+.icon:hover {
+    color: black;
+}
+
+.white-section {
+    background-color: #fff;
+}
+
+.container-fluid {
+    padding: 7% 15%;
+}
+
+.proshow {
+    text-align: center;
+    color: #2c39b9;
+    padding: 10px;
+    margin-bottom: -2%;
+}
+
+#livestream {
+    background-color: #d9dad9;
+}
+
+.plive {
+    float: left;
+}
+
+.social-icon {
+    margin: 20px 10px;
+}
+
+#footer {
+    text-align: center;
+}
